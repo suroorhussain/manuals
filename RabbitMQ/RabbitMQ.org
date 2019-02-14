@@ -21,4 +21,4 @@
    - list_queues: list name and number of messages of queues
 * python
   - pika
-  - 
+  - https://www.rabbitmq.com/tutorials/tutorial-two-python.html
